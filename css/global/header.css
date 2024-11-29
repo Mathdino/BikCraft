@@ -1,7 +1,6 @@
 .header-bg {
   background-color: #000000;
 }
-
 .header {
   display: flex;
   flex-wrap: wrap;
@@ -36,7 +35,7 @@
   display: block;
   height: 2px;
   width: 0px;
-  background: #ffffff;
+  background:var(--cor-p1);
   margin-top: 4px;
   transition: 0.3s;
   position: absolute;
